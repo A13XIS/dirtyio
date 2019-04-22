@@ -87,11 +87,11 @@ DirtyIO was designed to ease the processing of binary data by providing an inter
 ## chunk size names
     The following is the list of names that can replace the star from the functions above:
     
-    - byte    1 Byte
-    - word    2 Byte (Word)
-    - triplet 3 Byte
-    - dword   4 Byte (Double Word)
-    - quintet 5 Byte
-    - sextet  6 Byte
-    - septet  7 Byte
-    - qword   8 Byte (Quadruple Word)
+ - byte    1 Byte
+- word    2 Byte (Word)
+- triplet 3 Byte
+- dword   4 Byte (Double Word)
+- quintet 5 Byte
+- sextet  6 Byte
+- septet  7 Byte
+- qword   8 Byte (Quadruple Word)
