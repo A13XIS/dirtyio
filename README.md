@@ -37,6 +37,7 @@ DirtyIO was designed to ease the processing of binary data by providing an inter
     Reads and returns a null terminated string. In case the End of file has been reached before the string 
     gets terminated, an error is thrown and the file is reverted to the previous state.
 - pad_out() 
+
     Sets the pointer to the nearest word (4 byte) border. The 1 to 3 bytes are seen as padding and are omitted.
 - skip_*()
 
